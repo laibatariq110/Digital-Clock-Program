@@ -35,7 +35,3 @@ Contains the styles for the clock and background, including positioning, font st
 ### script.js
 
 Includes the JavaScript code that updates the clock every second, converting the current time to a 12-hour format and appending the AM/PM notation.
-
-## License
-
-This project is licensed under the MIT License.
