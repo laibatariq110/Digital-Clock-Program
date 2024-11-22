@@ -2,6 +2,10 @@
 
 This project is a simple digital clock that displays the current time with a picture background. The clock updates every second to show the current hours, minutes, and seconds in a 12-hour format with AM/PM notation.
 
+## 🌐 Live Demo
+![Digital Clock Screenshot](/digital-clock.png.png)
+[View the live project here!](https://laibatariq110.github.io/Digital-Clock-Program)
+
 ## Project Structure
 
 The project consists of three main files:
